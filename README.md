@@ -4,4 +4,4 @@ Aplicación realizada con react y se utiliza la siguiente API: https://breaking-
 
 ## Página web creada
 
-![Página de breakingbad](/screenshot/breakingbad.png)
+![Página de Breaking Bad](/screenshot/breakingbad.png)
